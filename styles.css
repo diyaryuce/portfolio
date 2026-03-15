@@ -9,7 +9,7 @@ body {
     background-color: rgb(23, 24, 29);
     color: #e5e7eb;
 }
-a {
+a, p {
     text-decoration: none;
     color: inherit;
 }
